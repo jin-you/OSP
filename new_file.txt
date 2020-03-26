@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 3rd edit : in branch1
+=======
+3rd edit : in branch2
+>>>>>>> add new line in branch2
 git text
 1st edit : in local
 2nd edit : in remote
